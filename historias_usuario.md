@@ -1,4 +1,4 @@
-INSALUD
+INSALUD S.A.S
 
 Historias de usuario
 
